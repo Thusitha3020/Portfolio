@@ -17,7 +17,8 @@
     <link rel="stylesheet" href="assets/css/responsive.css">
   </head>
   <body>
-    <!-------------------- Scroll-Top Area (Start) --------------------> <a href="#home"
+    <!-------------------- Scroll-Top Area (Start) --------------------> <a href="#home"
+
       class="scroll-top"> </a>
     <!-------------------- Scroll-Top Area (End) -------------------->
     <!-------------------- Header Area (Start) -------------------->
@@ -41,7 +42,7 @@
           <div class="text">
             <h2>hi there!</h2>
             <h1>I Am a <span class="typing-text"></span></h1>
-            <p>Creative web developer offering 4+ years of experience providing
+            <p>Creative web developer offering 2+ years of experience providing
               high-impact web solutions for many different organizations.</p>
             <a href="#" class="btn">about me <i class="fas fa-user"></i></a> </div>
         </div>
@@ -74,20 +75,20 @@
             </div>
             <div class="counting">
               <div class="box">
-                <h1 class="count" data-count="4">2+</h1>
+                <h1 class="count" data-count="2">+</h1>
                 <h3>years of experience</h3>
               </div>
               <div class="box">
-                <h1 class="count" data-count="100">5+</h1>
+                <h1 class="count" data-count="10">1+</h1>
                 <h3>projects completed</h3>
               </div>
               <div class="box">
-                <h1 class="count" data-count="80">20+</h1>
+                <h1 class="count" data-count="15">1+</h1>
                 <h3>happy clients</h3>
               </div>
               <div class="box">
-                <h1 class="count" data-count="20">20+</h1>
-                <h3>awards won</h3>
+                <h1 class="count" data-count="10">1+</h1>
+                <h3>Different level Skills</h3>
               </div>
             </div>
           </div>
@@ -174,7 +175,7 @@
               <h3>Bachelor's Degree in Software Engineering</h3>
               <p>Currently pursuing a Bachelor's Degree in Software Engineering
                 at ESOFT Metro Campus, focusing on front-end development, UI/UX
-                design, and modern web technologies.</p>
+                design, and modern web technologies.Expected in 2026</p>
             </div>
           </div>
         </div>
@@ -227,52 +228,64 @@
           <li class="button btn" data-filter="photography">photography</li>
         </ul>
         <div class="box-container">
-          <div class="portfolio-item image web"> <img src="assets/images/Portfolio/portfolio-1.png"
+          <div class="portfolio-item image web"> <img src="assets/images/Portfolio/portfolio-1.png"
+
               alt="Portfolio-Image">
             <div class="content">
               <h4>web development</h4>
               <p>category</p>
-              <a data-effect="mfp-newspaper" href="assets/images/Portfolio/portfolio-1.png"
+              <a data-effect="mfp-newspaper" href="assets/images/Portfolio/portfolio-1.png"
+
                 class="view-btn"><i class="fas fa-search-plus"></i></a> </div>
           </div>
-          <div class="portfolio-item image web"> <img src="assets/images/Portfolio/portfolio-2.png"
+          <div class="portfolio-item image web"> <img src="assets/images/Portfolio/portfolio-2.png"
+
               alt="Portfolio-Image">
             <div class="content">
               <h4>web development</h4>
               <p>category</p>
-              <a data-effect="mfp-newspaper" href="assets/images/Portfolio/portfolio-2.png"
+              <a data-effect="mfp-newspaper" href="assets/images/Portfolio/portfolio-2.png"
+
                 class="view-btn"><i class="fas fa-search-plus"></i></a> </div>
           </div>
-          <div class="portfolio-item image design"> <img src="assets/images/Portfolio/portfolio-3.jpg"
+          <div class="portfolio-item image design"> <img src="assets/images/Portfolio/portfolio-3.jpg"
+
               alt="Portfolio-Image">
             <div class="content">
               <h4>graphic design</h4>
               <p>category</p>
-              <a data-effect="mfp-newspaper" href="assets/images/Portfolio/portfolio-3.jpg"
+              <a data-effect="mfp-newspaper" href="assets/images/Portfolio/portfolio-3.jpg"
+
                 class="view-btn"><i class="fas fa-search-plus"></i></a> </div>
           </div>
-          <div class="portfolio-item image design"> <img src="assets/images/Portfolio/portfolio-4s.png"
+          <div class="portfolio-item image design"> <img src="assets/images/Portfolio/portfolio-4s.png"
+
               alt="Portfolio-Image">
             <div class="content">
               <h4>graphic design</h4>
               <p>category</p>
-              <a data-effect="mfp-newspaper" href="assets/images/Portfolio/portfolio-4s.png"
+              <a data-effect="mfp-newspaper" href="assets/images/Portfolio/portfolio-4s.png"
+
                 class="view-btn"><i class="fas fa-search-plus"></i></a> </div>
           </div>
-          <div class="portfolio-item image photography"> <img src="assets/images/Portfolio/portfolio-5.png"
+          <div class="portfolio-item image photography"> <img src="assets/images/Portfolio/portfolio-5.jpg"
+
               alt="Portfolio-Image">
             <div class="content">
               <h4>photography</h4>
               <p>category</p>
-              <a data-effect="mfp-newspaper" href="assets/images/Portfolio/portfolio-5.png"
+              <a data-effect="mfp-newspaper" href="assets/images/Portfolio/portfolio-5.jpg"
+
                 class="view-btn"><i class="fas fa-search-plus"></i></a> </div>
           </div>
-          <div class="portfolio-item image photography"> <img src="assets/images/Portfolio/portfolio-6.png"
+          <div class="portfolio-item image photography"> <img src="assets/images/Portfolio/portfolio-6.jpg"
+
               alt="Portfolio-Image">
             <div class="content">
               <h4>photography</h4>
               <p>category</p>
-              <a data-effect="mfp-newspaper" href="assets/images/Portfolio/portfolio-6.png"
+              <a data-effect="mfp-newspaper" href="assets/images/Portfolio/portfolio-6.jpg"
+
                 class="view-btn"><i class="fas fa-search-plus"></i></a> </div>
           </div>
         </div>
@@ -286,58 +299,48 @@
       </div>
       <div class="swiper-container testimonial-slider">
         <div class="swiper-wrapper">
-          <div class="swiper-slide testi-item"> <img src="assets/images/Testimonials/pic-1.png"
+          <div class="swiper-slide testi-item"> <img src="assets/images/Testimonials/pic-1.jpg"
+
               alt="Testimonial-Pic"> <i class="fas fa-quote-left"></i>
-            <p class="comment"> Lorem ipsum dolor sit amet consectetur
-              adipisicing elit. Voluptatum deleniti architecto harum natus
-              aliquid nostrum ad asperiores sequi, eligendi sint assumenda eum
-              illo similique repellendus. </p>
+            <p class="comment"> Thusitha's expertise in both front-end and back-end development ensured a comprehensive and well-integrated solution. </p>
             <div class="intro">
-              <h3>jason roy</h3>
-              <h5>web developer</h5>
+              <h3>Nadeera Binoli</h3>
+              <h5>Fullstack Developer</h5>
             </div>
           </div>
-          <div class="swiper-slide testi-item"> <img src="assets/images/Testimonials/pic-2.png"
+          <div class="swiper-slide testi-item"> <img src="assets/images/Testimonials/pic-2.png"
+
               alt="Testimonial-Pic"> <i class="fas fa-quote-left"></i>
-            <p class="comment"> Lorem ipsum dolor sit amet consectetur
-              adipisicing elit. Voluptatum deleniti architecto harum natus
-              aliquid nostrum ad asperiores sequi, eligendi sint assumenda eum
-              illo similique repellendus. </p>
+            <p class="comment"> The website Thusitha created for us was not only beautiful but also highly functional. We saw a significant increase in user engagement. </p>
             <div class="intro">
-              <h3>evelyn jones</h3>
+              <h3>Nithya Gimhani</h3>
               <h5>freelancer</h5>
             </div>
           </div>
-          <div class="swiper-slide testi-item"> <img src="assets/images/Testimonials/pic-3.png"
+          <div class="swiper-slide testi-item"> <img src="assets/images/Testimonials/pic-3.png"
+
               alt="Testimonial-Pic"> <i class="fas fa-quote-left"></i>
-            <p class="comment"> Lorem ipsum dolor sit amet consectetur
-              adipisicing elit. Voluptatum deleniti architecto harum natus
-              aliquid nostrum ad asperiores sequi, eligendi sint assumenda eum
-              illo similique repellendus. </p>
+            <p class="comment"> I highly recommend Thusitha for any web development projects. His expertise and attention to detail are unparalleled. </p>
             <div class="intro">
-              <h3>luke wood</h3>
+              <h3>Sathsara Edirisinghe</h3>
               <h5>graphic designer</h5>
             </div>
           </div>
-          <div class="swiper-slide testi-item"> <img src="assets/images/Testimonials/pic-4.png"
+          <div class="swiper-slide testi-item"> <img src="assets/images/Testimonials/pic-4.png"
+
               alt="Testimonial-Pic"> <i class="fas fa-quote-left"></i>
-            <p class="comment"> Lorem ipsum dolor sit amet consectetur
-              adipisicing elit. Voluptatum deleniti architecto harum natus
-              aliquid nostrum ad asperiores sequi, eligendi sint assumenda eum
-              illo similique repellendus. </p>
+            <p class="comment"> Thusitha's project management skills kept our team organized, on schedule, and motivated throughout the entire project.</p>
             <div class="intro">
-              <h3>sarah glenn</h3>
+              <h3>Ravishan Perera</h3>
               <h5>freelancer</h5>
             </div>
           </div>
-          <div class="swiper-slide testi-item"> <img src="assets/images/Testimonials/pic-5.png"
+          <div class="swiper-slide testi-item"> <img src="assets/images/Testimonials/pic-5.png"
+
               alt="Testimonial-Pic"> <i class="fas fa-quote-left"></i>
-            <p class="comment"> Lorem ipsum dolor sit amet consectetur
-              adipisicing elit. Voluptatum deleniti architecto harum natus
-              aliquid nostrum ad asperiores sequi, eligendi sint assumenda eum
-              illo similique repellendus. </p>
+            <p class="comment">With Thusitha's technical skills, we overcame complex challenges and successfully launched our software product on time. </p>
             <div class="intro">
-              <h3>samit patel</h3>
+              <h3>Theekshana Nadun</h3>
               <h5>graphic designer</h5>
             </div>
           </div>
@@ -441,7 +444,7 @@
       <div class="box-container">
         <div class="contact-info">
           <h3>get in touch</h3>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+          <p>Stay Connect with me</p>
           <div class="info-item">
             <h4>Phone:</h4>
             <div class="detail">
@@ -476,20 +479,28 @@
             </div>
           </div>
         </div>
-        <form method="post" class="contact-form" id="contactUs-Form"> <input name="name"
-            class="box" id="name" placeholder="name" required="" type="text"> <input
-            name="email" class="box" id="email" placeholder="email" required=""
-            type="email"> <input name="subject" class="box" id="subject" placeholder="subject"
-            required="" type="text"> <textarea cols="30" rows="10" name="comment"
-id="comment" class="box" placeholder="message"></textarea> <button type="submit"
-            class="btn" name="submit" id="submit">send message</button> <span class="alert"
+        <form method="post" class="contact-form" id="contactUs-Form"> <input name="name"
+
+            class="box" id="name" placeholder="name" required="" type="text"> <input
+
+            name="email" class="box" id="email" placeholder="email" required=""
+
+            type="email"> <input name="subject" class="box" id="subject" placeholder="subject"
+
+            required="" type="text"> <textarea cols="30" rows="10" name="comment"
+
+id="comment" class="box" placeholder="message"></textarea> <button type="submit"
+
+            class="btn" name="submit" id="submit">send message</button> <span class="alert"
+
             id="msg"></span> </form>
       </div>
     </section>
     <!-------------------- Contact Area (End) -------------------->
     <!-------------------- Footer Area (Start) -------------------->
     <footer>
-      <div class="social"> <a href="#" class="fab fa-facebook-f"></a> <a href="#"
+      <div class="social"> <a href="#" class="fab fa-facebook-f"></a> <a href="#"
+
           class="fab fa-twitter"></a> <a href="#" class="fab fa-instagram"></a>
         <a href="#" class="fab fa-linkedin-in"></a> </div>
       <div class="content">
